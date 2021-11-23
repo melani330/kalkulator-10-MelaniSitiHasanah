@@ -102,6 +102,10 @@ p{
 .decimal:hover {
     background-color: #8841bbbb;
   }
+button:nth-child(3){
+    font-size: 20px;
+    background-color: #db7de0;
+}
 button:nth-child(4){
     font-size: 20px;
     background-color: #db7de0;
@@ -116,6 +120,10 @@ button:nth-child(12){
 }
 button:nth-child(16){
     font-size: 20px;
+    background-color: #db7de0;
+}
+button:nth-child(19){
+    font-size: 15px;
     background-color: #db7de0;
 }
 button:nth-child(20){
