@@ -4,6 +4,6 @@ Nama  : Melani Siti Hasanah
 
 Kelas : 10
 
-![image](https://user-images.githubusercontent.com/72775473/141605202-bbd6ee9c-9ee8-4ac7-9337-c54d4d0c881f.png)
+![image](https://user-images.githubusercontent.com/72775473/142985093-f8841763-2eb5-4691-8aa0-6c9a157a63cf.png)
 
 HTML-CSS-JAVA SCRIPT
